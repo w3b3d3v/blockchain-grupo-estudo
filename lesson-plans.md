@@ -1,5 +1,8 @@
 # Plano de Estudos Blockchain
 
+Este plano de estudos é baseado no [Ethereum Developer Bootcamp](https://www.alchemy.com/university/courses/ethereum).
+
+
 ## Objetivo do Grupo de Estudos
 
 O Grupo de Estudos é um ambiente dedicado ao compartilhamento e desenvolvimento de conhecimentos em blockchain e suas tecnologias.
