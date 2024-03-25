@@ -9,3 +9,4 @@ _- We're all gonna build it!_
 
 * [Plataforma de buils](https://build.w3d.community/courses)
 * [Roadmap blockchain](https://pt.w3d.community/roadmap-blockchain)
+* [Desafios em solidity](https://github.com/w3b3d3v/assignments-solidity-grupo-estudos)
